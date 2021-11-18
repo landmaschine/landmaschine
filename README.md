@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @landmaschine
-- 👀 I’m interested in esp32/Arduino/OpenGL/c/c++
-- 🌱 I’m currently learning c/c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Nickname:   @landmaschine
+Currently learning C
+
 
 <!---
 landmaschine/landmaschine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
