@@ -1,6 +1,6 @@
 Nickname:   @landmaschine
 
-Currently learning C
+Currently learning C/C++
 
 
 <!---
